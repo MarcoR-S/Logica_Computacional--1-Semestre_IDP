@@ -13,8 +13,14 @@ O programa exibe no terminal cada etapa do processo, desde a ida até a cozinha 
 O principal objetivo deste projeto é aplicar conceitos iniciais de lógica computacional, tais como:
 
 .Sequência de instruções
+
+
 .Uso de variáveis
+
+
 .Estruturas condicionais (if)
+
+
 .Organização lógica de processos
 🧠 Contexto Acadêmico
 
