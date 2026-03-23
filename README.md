@@ -1,3 +1,6 @@
+
+![Logomarca_pequena_IDP](https://github.com/user-attachments/assets/470fa092-9388-4e29-ac2d-1cf72da1f8cb)
+
 📌 Descrição
 
 Este projeto consiste em uma simulação simples do processo de preparo de café utilizando conceitos básicos de programação em Python. O objetivo é representar, passo a passo, as ações necessárias para preparar um café, como se fosse um algoritmo.
