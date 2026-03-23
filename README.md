@@ -21,4 +21,6 @@ O principal objetivo deste projeto é aplicar conceitos iniciais de lógica comp
 Este projeto foi desenvolvido por um aluno do 1º semestre de Ciência da Computação do IDP (Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa), como parte das atividades da disciplina de Lógica Computacional.
 
 💻 Ferramentas utilizadas
+
+
 . Python
