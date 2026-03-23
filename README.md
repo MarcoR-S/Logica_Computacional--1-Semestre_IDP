@@ -1,5 +1,6 @@
 
-![Logomarca_pequena_IDP](https://github.com/user-attachments/assets/470fa092-9388-4e29-ac2d-1cf72da1f8cb)
+<img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/056a5f86-1ddf-4b16-9a6e-3f1b4534db69" />
+
 
 📌 Descrição
 
